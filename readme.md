@@ -92,13 +92,13 @@ https://blog.csdn.net/u012881904/article/details/52767853-->
 
             基础实体类，其它实体继承此实体，此实体包含以下属性：
             
-                ```java
-                private Long id;
-                
-                private Date createTime;
-                
-                private Date updateTime;
-                ```
+            ```java
+            private Long id;
+            
+            private Date createTime;
+            
+            private Date updateTime;
+            ```
 
         - Response
 
