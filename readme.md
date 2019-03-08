@@ -99,11 +99,6 @@ https://blog.csdn.net/u012881904/article/details/52767853-->
             
             private Date updateTime;
             ```
-
-        - Response
-
-            统一响应对象。包含处理结果（Meta）和返回数据（Data）两部分，在 Controller 处理完请求后将此对象转换成 json 返回给前台。
-
     - util
         - RandomUtils
 

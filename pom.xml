@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.leigq.common</groupId>
     <artifactId>springboot-common</artifactId>
-    <version>1.0.0-RELEASE</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>springboot-common</name>
     <description>Spring-boot common project for Spring Boot</description>
 
